@@ -7,10 +7,10 @@ A game inspired by Nox, Diablo and Battle3.
 
 ## Video
 
-<video width="320" height="240" controls>
-  <source src="BattleNox Demovideo Short.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/d71c57e8-1ab4-4804-9126-cfa0b62ea183
+
 
 ## Story
 
