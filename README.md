@@ -39,6 +39,18 @@ How gameplay is
 
 There are 3 waves based on the number of kills. Each wave summons new spiders in the spawn spot.
 
+## Still to do
+
+1. Fix lag (was not an issue with Unity version I previously used)
+
+2. End Menu get rid of btn menu inbetween
+
+3. Make Waves look better
+
+4. Fix positioning of spells, life and mana
+
+5. Make game more interesting by adding enemies, spells and items to equip
+
 ## Disclaimer
 
 I do not own prefabs, models, animations or any other visuals.
