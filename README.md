@@ -16,9 +16,13 @@ Your mission is to take back good old Necromancer home that is now home of spide
 ## How to run
 
 1. Git clone
-
+   
 2. To open this project, install Editor version 2021.3.23f1.
 
+3. Under Assets/Scenes click Main to load the game
+   
+4. Click Play and enjoy! 
+   
 ## How to play
 
 Collect mana near stones, use it to summon skeletons and heal yourself
