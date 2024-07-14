@@ -5,6 +5,13 @@ Game I created summer of 2023 for university course.
 
 A game inspired by Nox, Diablo and Battle3.
 
+## Video
+
+<video width="320" height="240" controls>
+  <source src="BattleNox Demovideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Story
 
 Spider Clan has made defence pact with Goblin Clan.
