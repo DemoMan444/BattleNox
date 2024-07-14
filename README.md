@@ -8,7 +8,7 @@ A game inspired by Nox, Diablo and Battle3.
 ## Video
 
 <video width="320" height="240" controls>
-  <source src="BattleNox Demovideo.mp4" type="video/mp4">
+  <source src="BattleNox Demovideo Short.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
